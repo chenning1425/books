@@ -4,7 +4,7 @@
  <title>「我的GITHUB人生」</title>
  <link href="https://neichen.github.io/atom.xml" rel="self"/>
  <link href="https://neichen.github.io/"/>
- <updated>2013-07-27T03:06:52+08:00</updated>
+ <updated>2013-07-27T03:31:44+08:00</updated>
  <id>https://neichen.github.io/</id>
  <author>
    <name>Nei Chen</name>
@@ -35,13 +35,13 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
  </entry>
  
  <entry>
-   <title>Test</title>
-   <link href="https://neichen.github.io/2013/07/18/test.html"/>
-   <updated>2013-07-18T00:00:00+08:00</updated>
-   <id>https://neichen.github.io/2013/07/18/test</id>
-   <content type="html">&lt;h3&gt;这是一首简单的小情歌&lt;/h3&gt;
+   <title>这是一首简单的小情歌</title>
+   <link href="https://neichen.github.io/2013/07/19/test.html"/>
+   <updated>2013-07-19T03:58:33+08:00</updated>
+   <id>https://neichen.github.io/2013/07/19/test</id>
+   <content type="html">&lt;h3&gt;这是一个测试页喔&lt;/h3&gt;
 
-&lt;h2&gt;这是一个测试页喔&lt;/h2&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&#39;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  

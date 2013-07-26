@@ -1,2 +1,15 @@
-###这是一首简单的小情歌
-##这是一个测试页喔
+---
+layout: post
+title:  "这是一首简单的小情歌"
+date:   2013-07-18 19:58:33
+categories: test
+tags:
+    - test
+---
+
+###这是一个测试页喔
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
