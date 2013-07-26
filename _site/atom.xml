@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>「我的GITHUB人生」</title>
+ <link href="https://neichen.github.io/atom.xml" rel="self"/>
+ <link href="https://neichen.github.io/"/>
+ <updated>2013-07-27T03:06:52+08:00</updated>
+ <id>https://neichen.github.io/</id>
+ <author>
+   <name>Nei Chen</name>
+   <email>neing.chen@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome to Jekyll!</title>
+   <link href="https://neichen.github.io/2013/07/19/welcome-to-jekyll.html"/>
+   <updated>2013-07-19T03:58:33+08:00</updated>
+   <id>https://neichen.github.io/2013/07/19/welcome-to-jekyll</id>
+   <content type="html">&lt;p&gt;You&#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&#39;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Test</title>
+   <link href="https://neichen.github.io/2013/07/18/test.html"/>
+   <updated>2013-07-18T00:00:00+08:00</updated>
+   <id>https://neichen.github.io/2013/07/18/test</id>
+   <content type="html">&lt;h3&gt;这是一首简单的小情歌&lt;/h3&gt;
+
+&lt;h2&gt;这是一个测试页喔&lt;/h2&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

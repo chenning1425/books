@@ -1,4 +1,4 @@
-books
+「写在当下」
 =====
 
-here is a repo about some books that I collected
+总想写点儿什么，想着想着已经来到了人生的路口，为自己挑几个要达成的目标，并为之奋斗，这里是其中之一。
