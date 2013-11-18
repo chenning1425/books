@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>「我的GITHUB人生」</title>
+ <title>「一泓秋水」</title>
  <link href="https://neichen.github.io/atom.xml" rel="self"/>
  <link href="https://neichen.github.io/"/>
- <updated>2013-07-27T03:31:44+08:00</updated>
+ <updated>2013-11-18T19:19:58+08:00</updated>
  <id>https://neichen.github.io/</id>
  <author>
    <name>Nei Chen</name>
@@ -13,35 +13,29 @@
 
  
  <entry>
-   <title>Welcome to Jekyll!</title>
-   <link href="https://neichen.github.io/2013/07/19/welcome-to-jekyll.html"/>
-   <updated>2013-07-19T03:58:33+08:00</updated>
-   <id>https://neichen.github.io/2013/07/19/welcome-to-jekyll</id>
-   <content type="html">&lt;p&gt;You&#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+   <title>万事开头难，持之以恒更难</title>
+   <link href="https://neichen.github.io/2013/11/18/let-us-begin.html"/>
+   <updated>2013-11-18T19:58:33Z</updated>
+   <id>https://neichen.github.io/2013/11/18/let-us-begin</id>
+   <content type="html">&lt;h3&gt;满腹牢骚&lt;/h3&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;开始做一件事往往很难，尤其在这件事很麻烦的时候更是如此。
+也许最初可以凭着三分热度把这事做得有声有色颇为出彩，可时间一长就像在浆糊中游泳一般，越来越慢，越来越动弹不得。
+这是为什么呢？
+我就经常如此，在一遍遍地问着自己为什么的同时也彻底止住了脚步。
+心中想做的事太多，做做这件，丢了那件；甚或连做都不做，只是想。
+想是最简单的，好似不怎么占用时间，可不知不觉中，时间就这么过去了。
+并非所有人都如此。这世上很有一批人，有自己的原则，有自己的行动指南，不为旁的事所动，一心向道。
+为什么我的坚持就这么短？
+明明已经找到了喜欢做想要做的事，却还是拖拖拉拉，不思前进。这该是我最大的缺陷吧。&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;谁能持之以恒&lt;/h3&gt;
 
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&#39;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>这是一首简单的小情歌</title>
-   <link href="https://neichen.github.io/2013/07/19/test.html"/>
-   <updated>2013-07-19T03:58:33+08:00</updated>
-   <id>https://neichen.github.io/2013/07/19/test</id>
-   <content type="html">&lt;h3&gt;这是一个测试页喔&lt;/h3&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&#39;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;其实这是一个机会，这里并没有很多人认识我；而我也需要一个地方来积累自己的知识，助自己成长。
+希望这里可以让我长久的活跃，而不是如之前那般随便言弃。
+有人说，写代码与写文章是很像的，我虽然并没有很特别的感触，我也认同写得出好代码的人同样也能写得出好文章。
+但这需要不断的努力。
+那么就让我从这里而非从新开始。&lt;/p&gt;
 </content>
  </entry>
  
