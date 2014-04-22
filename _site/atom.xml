@@ -4,7 +4,7 @@
  <title>「一泓秋水」</title>
  <link href="https://neichen.github.io/atom.xml" rel="self"/>
  <link href="https://neichen.github.io/"/>
- <updated>2013-11-18T19:19:58+08:00</updated>
+ <updated>2014-04-22T23:47:49+08:00</updated>
  <id>https://neichen.github.io/</id>
  <author>
    <name>Nei Chen</name>
@@ -13,10 +13,27 @@
 
  
  <entry>
+   <title>读书笔记</title>
+   <link href="https://neichen.github.io/2014/04/23/reading-note-begin.html"/>
+   <updated>2014-04-23T07:21:00+08:00</updated>
+   <id>https://neichen.github.io/2014/04/23/reading-note-begin</id>
+   <content type="html">&lt;h3&gt;开始记读书笔记&lt;/h3&gt;
+
+&lt;p&gt;从今天开始，希望每天都能将读书的一些心得记录下来。&lt;/p&gt;
+
+&lt;p&gt;第一本想读的书，是《心理学与生活》，参考了很多评论，最终决定读英文原版。&lt;/p&gt;
+
+&lt;p&gt;这是一个挑战，还记得上一本完整看完的英文著作是在高中时读的《哈利波特与魔法石》；而最近读过的《哈利波特与死亡圣器》和《乔布斯传》都没有读完。&lt;/p&gt;
+
+&lt;p&gt;立帖为证，希望自己能够坚持下去。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>万事开头难，持之以恒更难</title>
-   <link href="https://neichen.github.io/2013/11/18/let-us-begin.html"/>
-   <updated>2013-11-18T19:58:33Z</updated>
-   <id>https://neichen.github.io/2013/11/18/let-us-begin</id>
+   <link href="https://neichen.github.io/2013/11/19/let-us-begin.html"/>
+   <updated>2013-11-19T03:58:33+08:00</updated>
+   <id>https://neichen.github.io/2013/11/19/let-us-begin</id>
    <content type="html">&lt;h3&gt;满腹牢骚&lt;/h3&gt;
 
 &lt;p&gt;开始做一件事往往很难，尤其在这件事很麻烦的时候更是如此。
