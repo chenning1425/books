@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "读书笔记"
+title:  "《Psychology And Life》读书笔记（1）"
 date:   2014-04-25
 categories: 读书笔记
 tags:
