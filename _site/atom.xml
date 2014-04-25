@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>「一泓秋水」</title>
+ <title>「看·听·学·思」</title>
  <link href="https://neichen.github.io/atom.xml" rel="self"/>
  <link href="https://neichen.github.io/"/>
- <updated>2014-04-25T08:17:29+08:00</updated>
+ <updated>2014-04-25T08:29:22+08:00</updated>
  <id>https://neichen.github.io/</id>
  <author>
    <name>Nei Chen</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>读书笔记</title>
+   <title>《Psychology And Life》读书笔记（1）</title>
    <link href="https://neichen.github.io/2014/04/25/reading-note-what-makes-psychology-unique.html"/>
    <updated>2014-04-25T00:00:00+08:00</updated>
    <id>https://neichen.github.io/2014/04/25/reading-note-what-makes-psychology-unique</id>
